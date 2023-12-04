@@ -23,7 +23,7 @@ This repository will contain a guide, component list, machine code and webapp in
 - [Water Pump 12V DC - Black L-shaped](https://www.aliexpress.com/item/1005004651094012.html?spm=a2g0o.order_list.order_list_main.152.21ef1802em0wkp)
 
 ## Inspiration
-Initially inspired by a DIY Barbot project company Quantox created for team building purposes.
+Initially inspired by a DIY Barbot project, that company Quantox created for team building purposes.
 
 Found additional inspiration in these videos:
 
